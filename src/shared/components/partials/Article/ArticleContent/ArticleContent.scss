@@ -1,0 +1,21 @@
+.container {
+	padding: 15px;
+	font-size: 2rem;
+}
+
+.title {
+	margin: 0 0 15px;
+	padding: 0 0 15px;
+	color: $primaryColor;
+}
+
+.content {
+	color: $textColor;
+		
+	p {
+	    font-size: 18px;
+	    margin-bottom: 16px;
+	    line-height: 1.5;
+	    color: #455A64;
+	}
+}
